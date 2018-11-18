@@ -9,7 +9,7 @@ li {
   border-color: #f33;
 }
 
-nav li:hover {
+nav a:hover {
   background-color: #f33;
   color: #dbd6cf;
   border-color: #dbd6cf;
